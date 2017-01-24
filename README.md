@@ -23,5 +23,4 @@ Essentials
 ### Productivity
 - Alfred - http://www.alfredapp.com/
 - Better Touch Tool - http://www.bettertouchtool.net/
-- f.lux - http://stereopsis.com/flux/
 - karabiner - keyboard customizer - https://pqrs.org/osx/karabiner/
